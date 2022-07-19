@@ -1,0 +1,8 @@
+./DOCS/MENU.md
+./DOCS/ABOUT.md
+./DOCS/SUPPORTED.md
+../../softreck/contribution/CONTRIBUTION.md
+#./DOCS/DOCS.md
+#./DOCS/EXAMPLES.md
+#./DOCS/TODO.md
+./DOCS/FOOT.md
