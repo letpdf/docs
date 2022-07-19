@@ -1,2 +1,1 @@
-# docs
-docs.letpdf.com
+# docs.letpdf.com
